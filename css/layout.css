@@ -330,10 +330,10 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: java 2s ease;
   	-webkit-animation: java 2s ease;
 }
-.c# {
+.csharp {
   	width: 55%;
-  	-moz-animation: c# 2s ease;
-  	-webkit-animation: c# 2s ease;
+  	-moz-animation: csharp 2s ease;
+  	-webkit-animation: csharp 2s ease;
 }
 .php {
   	width: 50%;
@@ -360,7 +360,7 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-moz-keyframes c# {
+@-moz-keyframes csharp {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
@@ -385,7 +385,7 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-webkit-keyframes c# {
+@-webkit-keyframes csharp {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
