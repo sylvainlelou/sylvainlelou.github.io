@@ -326,59 +326,50 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .java {
-  	width: 60%;
+  	width: 70%;
   	-moz-animation: java 2s ease;
   	-webkit-animation: java 2s ease;
 }
 .csharp {
-  	width: 55%;
+  	width: 60%;
   	-moz-animation: csharp 2s ease;
   	-webkit-animation: csharp 2s ease;
 }
 .php {
-  	width: 50%;
+  	width: 30%;
   	-moz-animation: php 2s ease;
   	-webkit-animation: php 2s ease;
 }
 .css {
-  	width: 90%;
+  	width: 30%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
 .html5 {
-  	width: 80%;
+  	width: 30%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
-}
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
 }
 
 @-moz-keyframes php {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 70%;  }
 }
 @-moz-keyframes csharp {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 60%;  }
 }
 @-moz-keyframes php {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 30%;  }
 }
 @-moz-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 30%;  }
 }
 @-moz-keyframes html5 {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
-}
-@-moz-keyframes jquery {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 30%;  }
 }
 
 @-webkit-keyframes java {
@@ -387,23 +378,19 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes csharp {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 60%;  }
 }
 @-webkit-keyframes php {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 30%;  }
 }
 @-webkit-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 30%;  }
 }
 @-webkit-keyframes html5 {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
-}
-@-webkit-keyframes jquery {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 30%;  }
 }
 
 /* ------------------------------------------------------------------ */
