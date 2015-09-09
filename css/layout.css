@@ -332,7 +332,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: java 2s ease;
 }
 .csharp {
-  	width: 60%;
+  	width: 40%;
   	-moz-animation: csharp 2s ease;
   	-webkit-animation: csharp 2s ease;
 }
